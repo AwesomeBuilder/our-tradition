@@ -52,8 +52,6 @@ Each day has a special color to wear:
 ### Aartis & Bhajans
 
 - **[Jai Ambe Gauri](../section2-aartis-bhajans/05-jai-ambe-gauri.md)**
-- **[Durga Chalisa](../section2-aartis-bhajans/02-durga-chalisa.md)**
-- **[Ya Devi Sarvabhuteshu](../section2-aartis-bhajans/15-ya-devi-sarvabhuteshu.md)**
 - **[Om Jai Jagdish Hare](../section2-aartis-bhajans/10-om-jai-jagdish-hare.md)**
 
 ### Deities

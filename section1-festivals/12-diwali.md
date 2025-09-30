@@ -54,7 +54,6 @@ In some places, people also celebrate Krishna's victory over the demon Narakasur
 
 - **[Jai Laxmi Mata](../section2-aartis-bhajans/07-jai-laxmi-mata.md)**
 - **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/06-jai-ganesh.md)**
-- **[Shri Ramchandra Kripalu Bhajman](../section2-aartis-bhajans/14-ramchandra-kripalu.md)**
 
 ### Deities
 

@@ -91,7 +91,6 @@ The dance between Radha, Krishna, and the gopis isn't just a story—it's a spir
 
 ## Related Aartis & Bhajans
 - **[Aarti Kunj Bihari Ki](../section2-aartis-bhajans/01-aarti-kunj-bihari.md)** - Often mentions Radha with Krishna
-- **[Govind Bolo Hari Gopal Bolo](../section2-aartis-bhajans/03-govind-bolo.md)** - Includes "Radha Raman" (beloved of Radha)
 
 ---
 

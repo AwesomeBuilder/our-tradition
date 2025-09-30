@@ -54,7 +54,6 @@ The festival teaches us that in a family, we care for each other and pray for ea
 
 ### Aartis & Bhajans
 
-- **[Karva Chauth Aarti (Veero Karo Shravan Suno)](../section2-aartis-bhajans/09-karva-chauth-aarti.md)**
 - **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/06-jai-ganesh.md)**
 
 ### Deities

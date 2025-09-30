@@ -39,7 +39,6 @@ The most important lesson from Rama's life is that we should always choose what 
 
 ### Aartis & Bhajans
 
-- **[Shri Ramchandra Kripalu Bhajman](../section2-aartis-bhajans/14-ramchandra-kripalu.md)**
 - **[Hanuman Aarti](../section2-aartis-bhajans/04-hanuman-aarti.md)**
 - **[Om Jai Jagdish Hare](../section2-aartis-bhajans/10-om-jai-jagdish-hare.md)**
 

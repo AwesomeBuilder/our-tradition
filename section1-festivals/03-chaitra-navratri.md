@@ -39,8 +39,6 @@ Long ago, a powerful demon named Mahishasura could change into any form - buffal
 ### Aartis & Bhajans
 
 - **[Jai Ambe Gauri (Durga Aarti)](../section2-aartis-bhajans/05-jai-ambe-gauri.md)**
-- **[Ya Devi Sarvabhuteshu (Devi Stuti)](../section2-aartis-bhajans/15-ya-devi-sarvabhuteshu.md)**
-- **[Durga Chalisa](../section2-aartis-bhajans/02-durga-chalisa.md)**
 - **[Om Jai Jagdish Hare](../section2-aartis-bhajans/10-om-jai-jagdish-hare.md)**
 
 ### Deities

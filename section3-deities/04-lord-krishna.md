@@ -94,8 +94,6 @@ During the great war in the Mahabharata, Krishna became Arjuna's charioteer and 
 
 ## Related Aartis & Bhajans
 - **[Aarti Kunj Bihari Ki](../section2-aartis-bhajans/01-aarti-kunj-bihari.md)** - Main Krishna aarti
-- **[Govind Bolo Hari Gopal Bolo](../section2-aartis-bhajans/03-govind-bolo.md)** - Joyful Krishna kirtan
-- **[Shree Krishna Govardhan Aarti](../section2-aartis-bhajans/12-govardhan-aarti.md)** - Mountain-lifting Krishna
 
 ---
 

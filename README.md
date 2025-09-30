@@ -36,20 +36,12 @@ A family handbook of festivals, stories, aartis, and bhajans for Devanshu, Priya
 *Organized alphabetically*
 
 1. **[Aarti Kunj Bihari Ki](./section2-aartis-bhajans/01-aarti-kunj-bihari.md)** *(Krishna)*
-2. **[Durga Chalisa](./section2-aartis-bhajans/02-durga-chalisa.md)** *(Maa Durga)*
-3. **[Govind Bolo Hari Gopal Bolo](./section2-aartis-bhajans/03-govind-bolo.md)** *(Krishna)*
-4. **[Hanuman Aarti](./section2-aartis-bhajans/04-hanuman-aarti.md)** *(Hanuman)*
-5. **[Jai Ambe Gauri (Durga Aarti)](./section2-aartis-bhajans/05-jai-ambe-gauri.md)** *(Maa Durga)*
-6. **[Jai Ganesh Jai Ganesh](./section2-aartis-bhajans/06-jai-ganesh.md)** *(Ganesha)*
-7. **[Jai Laxmi Mata](./section2-aartis-bhajans/07-jai-laxmi-mata.md)** *(Maa Lakshmi)*
-8. **[Jai Shiv Omkara](./section2-aartis-bhajans/08-jai-shiv-omkara.md)** *(Shiva)*
-9. **[Karva Chauth Aarti](./section2-aartis-bhajans/09-karva-chauth-aarti.md)** *(Parvati)*
-10. **[Om Jai Jagdish Hare](./section2-aartis-bhajans/10-om-jai-jagdish-hare.md)** *(Universal)*
-11. **[Shiv Chalisa](./section2-aartis-bhajans/11-shiv-chalisa.md)** *(Shiva)*
-12. **[Shree Krishna Govardhan Aarti](./section2-aartis-bhajans/12-govardhan-aarti.md)** *(Krishna)*
-13. **[Shree Kubera Aarti](./section2-aartis-bhajans/13-kubera-aarti.md)** *(Kubera)*
-14. **[Shri Ramchandra Kripalu Bhajman](./section2-aartis-bhajans/14-ramchandra-kripalu.md)** *(Rama)*
-15. **[Ya Devi Sarvabhuteshu](./section2-aartis-bhajans/15-ya-devi-sarvabhuteshu.md)** *(Devi Stuti)*
+2. **[Hanuman Aarti](./section2-aartis-bhajans/04-hanuman-aarti.md)** *(Hanuman)*
+3. **[Jai Ambe Gauri (Durga Aarti)](./section2-aartis-bhajans/05-jai-ambe-gauri.md)** *(Maa Durga)*
+4. **[Jai Ganesh Jai Ganesh](./section2-aartis-bhajans/06-jai-ganesh.md)** *(Ganesha)*
+5. **[Jai Laxmi Mata](./section2-aartis-bhajans/07-jai-laxmi-mata.md)** *(Maa Lakshmi)*
+6. **[Jai Shiv Omkara](./section2-aartis-bhajans/08-jai-shiv-omkara.md)** *(Shiva)*
+7. **[Om Jai Jagdish Hare](./section2-aartis-bhajans/10-om-jai-jagdish-hare.md)** *(Universal)*
 
 ### Section 3: Deities & Their Stories
 *Learn about the gods and goddesses we worship*

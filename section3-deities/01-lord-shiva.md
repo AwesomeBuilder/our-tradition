@@ -61,7 +61,6 @@ When Parvati created Ganesha to guard her, Shiva unknowingly beheaded him. To co
 
 ## Related Aartis & Bhajans
 - **[Jai Shiv Omkara](../section2-aartis-bhajans/08-jai-shiv-omkara.md)** - Main Shiva aarti
-- **[Shiv Chalisa](../section2-aartis-bhajans/11-shiv-chalisa.md)** - 40 verses praising Shiva
 
 ---
 

@@ -29,7 +29,6 @@ Holi has two beautiful stories:
 ### Aartis & Bhajans
 
 - **[Aarti Kunj Bihari Ki](../section2-aartis-bhajans/01-aarti-kunj-bihari.md)** *(Krishna)*
-- **[Govind Bolo Hari Gopal Bolo](../section2-aartis-bhajans/03-govind-bolo.md)**
 - **[Om Jai Jagdish Hare](../section2-aartis-bhajans/10-om-jai-jagdish-hare.md)**
 
 ### Deities

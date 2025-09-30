@@ -86,8 +86,6 @@ Each form represents a different quality we can develop:
 
 ## Related Aartis & Bhajans
 - **[Jai Ambe Gauri](../section2-aartis-bhajans/05-jai-ambe-gauri.md)** - Main Durga aarti
-- **[Durga Chalisa](../section2-aartis-bhajans/02-durga-chalisa.md)** - 40 verses praising Durga
-- **[Ya Devi Sarvabhuteshu](../section2-aartis-bhajans/15-ya-devi-sarvabhuteshu.md)** - Divine Mother in all beings
 
 ---
 

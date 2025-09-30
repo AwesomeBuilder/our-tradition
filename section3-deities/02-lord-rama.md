@@ -68,7 +68,6 @@ After defeating Ravana, Rama returned to Ayodhya where people welcomed him with 
 ---
 
 ## Related Aartis & Bhajans
-- **[Shri Ramchandra Kripalu Bhajman](../section2-aartis-bhajans/14-ramchandra-kripalu.md)** - Beautiful Rama bhajan
 - **[Hanuman Aarti](../section2-aartis-bhajans/04-hanuman-aarti.md)** - Praising Rama's devotee
 
 ---

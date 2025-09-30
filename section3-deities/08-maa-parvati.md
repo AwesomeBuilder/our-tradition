@@ -89,7 +89,6 @@ Parvati and Shiva's home on Mount Kailash is filled with joy, music, and divine 
 ---
 
 ## Related Aartis & Bhajans
-- **[Karva Chauth Aarti](../section2-aartis-bhajans/09-karva-chauth-aarti.md)** - Honoring devoted wives like Parvati
 - **[Jai Shiv Omkara](../section2-aartis-bhajans/08-jai-shiv-omkara.md)** - Praising Shiva-Parvati together
 
 ---
