@@ -48,6 +48,13 @@
 
 ---
 
+## Learn More About the Deities
+
+- **[Lord Krishna](../section3-deities/04-lord-krishna.md)** - Complete stories of the divine cowherd and Govardhan lifter
+- **[Radha](../section3-deities/09-radha.md)** - Krishna's beloved companion mentioned as "Radha Raman"
+
+---
+
 ## Krishna's Names and Their Meanings
 - **Govind** - Cow protector, earth protector
 - **Gopal** - Cowherd, protector of children

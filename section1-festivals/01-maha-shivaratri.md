@@ -60,3 +60,4 @@ Long ago, when the world was in darkness, Lord Shiva performed the Tandava - his
 ## Learn More About the Deities
 
 - **[Lord Shiva](../section3-deities/01-lord-shiva.md)** - Complete stories and teachings of Mahadeva
+- **[Maa Parvati](../section3-deities/08-maa-parvati.md)** - Shiva's beloved wife and gentle mother

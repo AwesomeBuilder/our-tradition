@@ -80,6 +80,13 @@
 
 ---
 
+## Learn More About the Deities
+
+- **[Maa Durga](../section3-deities/06-maa-durga.md)** - Complete stories of the Divine Mother in all her forms
+- **[Maa Parvati](../section3-deities/08-maa-parvati.md)** - The gentle mother aspect of the Divine Feminine
+
+---
+
 ## How to Recite
 - Sit quietly with eyes closed or looking at Devi's picture
 - Think of the Divine Mother's presence everywhere

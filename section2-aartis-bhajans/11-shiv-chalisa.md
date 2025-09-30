@@ -64,3 +64,16 @@
 ---
 
 **Note:** The complete Chalisa has 40 verses. We can learn a few verses at a time. The most important thing is to recite with a peaceful heart, just like Shiva's calm nature.
+
+---
+
+## Related Festivals
+
+- **[Maha Shivaratri](../section1-festivals/01-maha-shivaratri.md)**
+
+---
+
+## Learn More About the Deities
+
+- **[Lord Shiva](../section3-deities/01-lord-shiva.md)** - Complete stories and teachings of Mahadeva
+- **[Maa Parvati](../section3-deities/08-maa-parvati.md)** - Shiva's beloved wife and gentle mother

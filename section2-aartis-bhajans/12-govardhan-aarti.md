@@ -78,3 +78,15 @@
 - **Help community** - Work together to solve problems
 - **Don't be proud** - Even powerful people can learn humility
 - **Share food** - Always have enough for everyone
+
+---
+
+## Related Festivals
+
+- **[Govardhan Puja](../section1-festivals/13-govardhan-puja.md)**
+
+---
+
+## Learn More About the Deities
+
+- **[Lord Krishna](../section3-deities/04-lord-krishna.md)** - Complete stories of the divine cowherd who lifted Govardhan

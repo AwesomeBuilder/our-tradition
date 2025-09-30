@@ -59,3 +59,17 @@
 ---
 
 **Note:** The complete Chalisa has 40 verses. We can learn a few verses at a time and gradually build up to the full recitation. The most important thing is to sing with love and devotion in our hearts.
+
+---
+
+## Related Festivals
+
+- **[Chaitra Navratri](../section1-festivals/03-chaitra-navratri.md)**
+- **[Sharad Navratri](../section1-festivals/08-sharad-navratri.md)**
+- **[Dussehra](../section1-festivals/09-dussehra.md)**
+
+---
+
+## Learn More About the Deities
+
+- **[Maa Durga](../section3-deities/06-maa-durga.md)** - Complete stories of the Divine Mother Protector

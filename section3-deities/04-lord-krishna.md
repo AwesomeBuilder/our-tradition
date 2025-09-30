@@ -88,6 +88,7 @@ During the great war in the Mahabharata, Krishna became Arjuna's charioteer and 
 - **[Krishna Janmashtami](../section1-festivals/05-krishna-janmashtami.md)** - Krishna's birthday
 - **[Holi](../section1-festivals/02-holi.md)** - Festival of colors (Krishna's playfulness)
 - **[Govardhan Puja](../section1-festivals/13-govardhan-puja.md)** - When Krishna lifted the mountain
+- **[Raksha Bandhan](../section1-festivals/07-raksha-bandhan.md)** - Krishna's protection of Draupadi
 
 ---
 
@@ -100,10 +101,9 @@ During the great war in the Mahabharata, Krishna became Arjuna's charioteer and 
 
 ## Family Connections
 - **Birth Parents:** Devaki and Vasudeva
-- **Foster Parents:** [Yashoda and Nanda](./12-yashoda-nanda.md)
+- **Foster Parents:** Yashoda and Nanda
 - **Beloved:** [Radha](./09-radha.md)
-- **Avatar of:** [Lord Vishnu](./02a-lord-vishnu.md)
-- **Devoted Friend:** [Lord Hanuman](./04-lord-hanuman.md) (also worships Krishna)
+- **Devoted Friend:** [Lord Hanuman](./05-lord-hanuman.md) (also worships Krishna)
 
 ---
 

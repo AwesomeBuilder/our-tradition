@@ -112,6 +112,19 @@
 
 ---
 
+## Learn More About the Deities
+
+*Since this is a universal aarti, it can be sung for any of these deities:*
+
+- **[Maa Durga](../section3-deities/06-maa-durga.md)** - Divine Mother Protector (Navratri, Dussehra)
+- **[Lord Krishna](../section3-deities/04-lord-krishna.md)** - The divine cowherd (Janmashtami)
+- **[Lord Rama](../section3-deities/02-lord-rama.md)** - The ideal king (Dussehra, Diwali)
+- **[Maa Lakshmi](../section3-deities/07-maa-lakshmi.md)** - Goddess of prosperity (Diwali)
+- **[Lord Ganesha](../section3-deities/03-lord-ganesha.md)** - Remover of obstacles (universal opening)
+- **[Lord Shiva](../section3-deities/01-lord-shiva.md)** - The cosmic transformer (universal prayer)
+
+---
+
 ## How to Sing
 - Stand together as a family
 - Light the main aarti lamp

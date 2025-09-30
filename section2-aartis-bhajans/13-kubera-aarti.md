@@ -72,3 +72,10 @@
 ---
 
 **Note:** Kubera teaches us that wealth should be earned honestly and used wisely to help others and serve society.
+
+---
+
+## Related Festivals
+
+- **[Dhanteras](../section1-festivals/11-dhanteras.md)**
+- **[Diwali](../section1-festivals/12-diwali.md)**
