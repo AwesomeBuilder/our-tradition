@@ -79,3 +79,12 @@
 
 - **[Dhanteras](../section1-festivals/11-dhanteras.md)**
 - **[Diwali](../section1-festivals/12-diwali.md)**
+
+---
+
+## Learn More About Related Deities
+
+*Note: While this aarti is for Lord Kubera (god of wealth), we can learn about related prosperity deities:*
+
+- **[Maa Lakshmi](../section3-deities/07-maa-lakshmi.md)** - Goddess of prosperity and abundance, closely associated with wealth
+- **[Lord Ganesha](../section3-deities/03-lord-ganesha.md)** - Remover of obstacles, invoked before wealth prayers
