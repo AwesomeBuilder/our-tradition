@@ -65,7 +65,6 @@ Ganesha broke off one of his tusks to use as a pen when writing down the great e
 ---
 
 ## Related Festivals & Celebrations
-- **[Ganesh Chaturthi](../section1-festivals/06-ganesh-chaturthi.md)** - Ganesha's birthday celebration
 - **[Diwali](../section1-festivals/12-diwali.md)** - Worshipped with Lakshmi for prosperity
 - **[Dhanteras](../section1-festivals/11-dhanteras.md)** - Invoked before Lakshmi worship
 - **[Karva Chauth](../section1-festivals/10-karva-chauth.md)** - For removing obstacles in marriage

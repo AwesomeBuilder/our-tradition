@@ -17,19 +17,20 @@ A family handbook of festivals, stories, aartis, and bhajans for Devanshu, Priya
 ### Section 1: Festivals & Traditions
 *Organized by calendar order*
 
-1. **[Maha Shivaratri](./section1-festivals/01-maha-shivaratri.md)** *(February-March)*
-2. **[Holi](./section1-festivals/02-holi.md)** *(March)*
-3. **[Chaitra Navratri](./section1-festivals/03-chaitra-navratri.md)** *(March-April)*
-4. **[Ram Navami](./section1-festivals/04-ram-navami.md)** *(March-April)*
-5. **[Krishna Janmashtami](./section1-festivals/05-krishna-janmashtami.md)** *(August-September)*
-6. **[Ganesh Chaturthi](./section1-festivals/06-ganesh-chaturthi.md)** *(August-September)*
-7. **[Raksha Bandhan](./section1-festivals/07-raksha-bandhan.md)** *(August)*
-8. **[Sharad Navratri](./section1-festivals/08-sharad-navratri.md)** *(September-October)*
-9. **[Dussehra (Vijayadashami)](./section1-festivals/09-dussehra.md)** *(September-October)*
-10. **[Karva Chauth](./section1-festivals/10-karva-chauth.md)** *(October-November)*
-11. **[Dhanteras](./section1-festivals/11-dhanteras.md)** *(October-November)*
-12. **[Diwali](./section1-festivals/12-diwali.md)** *(October-November)*
-13. **[Govardhan Puja (Annakut)](./section1-festivals/13-govardhan-puja.md)** *(October-November)*
+1. **[Lohri](./section1-festivals/01a-lohri.md)** *(January)*
+2. **[Makar Sankranti](./section1-festivals/01b-makar-sankranti.md)** *(January)*
+3. **[Maha Shivaratri](./section1-festivals/01-maha-shivaratri.md)** *(February-March)*
+4. **[Holi](./section1-festivals/02-holi.md)** *(March)*
+5. **[Chaitra Navratri](./section1-festivals/03-chaitra-navratri.md)** *(March-April)*
+6. **[Ram Navami](./section1-festivals/04-ram-navami.md)** *(March-April)*
+7. **[Krishna Janmashtami](./section1-festivals/05-krishna-janmashtami.md)** *(August-September)*
+8. **[Raksha Bandhan](./section1-festivals/07-raksha-bandhan.md)** *(August)*
+9. **[Sharad Navratri](./section1-festivals/08-sharad-navratri.md)** *(September-October)*
+10. **[Dussehra (Vijayadashami)](./section1-festivals/09-dussehra.md)** *(September-October)*
+11. **[Karva Chauth](./section1-festivals/10-karva-chauth.md)** *(October-November)*
+12. **[Dhanteras](./section1-festivals/11-dhanteras.md)** *(October-November)*
+13. **[Diwali](./section1-festivals/12-diwali.md)** *(October-November)*
+14. **[Govardhan Puja (Annakut)](./section1-festivals/13-govardhan-puja.md)** *(October-November)*
 
 ### Section 2: Aartis & Bhajans
 *Organized alphabetically*

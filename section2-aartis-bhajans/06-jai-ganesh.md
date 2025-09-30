@@ -68,7 +68,6 @@
 - **[Diwali](../section1-festivals/12-diwali.md)**
 - **[Karva Chauth](../section1-festivals/10-karva-chauth.md)**
 - **[Govardhan Puja](../section1-festivals/13-govardhan-puja.md)**
-- **[Ganesh Chaturthi](../section1-festivals/06-ganesh-chaturthi.md)**
 
 ---
 
