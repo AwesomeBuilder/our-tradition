@@ -14,52 +14,52 @@
 
 ## Lyrics
 
-**Jai lakshmi mata, maiya jai lakshmi mata**
-जय लक्ष्मी माता, मैया जय लक्ष्मी माता।
+**Jai lakshmi mata, maiya jai lakshmi mata**  
+जय लक्ष्मी माता, मैया जय लक्ष्मी माता।  
 *Victory to Mother Lakshmi, dear Mother Lakshmi!*
 
-**Tumko nisadin dhyavat, hari vishnu data**
-तुमको निसदिन ध्यावत, हरि विष्णु दाता॥
+**Tumko nisadin dhyavat, hari vishnu data**  
+तुमको निसदिन ध्यावत, हरि विष्णु दाता॥  
 *Lord Vishnu always remembers you day and night*
 
-**Jai lakshmi mata**
-जय लक्ष्मी माता॥
+**Jai lakshmi mata**  
+जय लक्ष्मी माता॥  
 *Victory to Mother Lakshmi!*
 
-**Uma rama brahmani, tum shobha dham**
-उमा रमा ब्रह्माणी, तुम शोभा धाम।
+**Uma rama brahmani, tum shobha dham**  
+उमा रमा ब्रह्माणी, तुम शोभा धाम।  
 *You are Uma, Rama, Brahmani - the home of all beauty*
 
-**Saraswati lakshmi tum, jag ki maharani**
-सरस्वती लक्ष्मी तुम, जग की महारानी॥
+**Saraswati lakshmi tum, jag ki maharani**  
+सरस्वती लक्ष्मी तुम, जग की महारानी॥  
 *You are Saraswati and Lakshmi, queen of the world*
 
-**Jai lakshmi mata**
-जय लक्ष्मी माता॥
+**Jai lakshmi mata**  
+जय लक्ष्मी माता॥  
 *Victory to Mother Lakshmi!*
 
-**Indrani tum shachi devi, tum kamala rani**
-इन्द्राणी तुम शची देवी, तुम कमला रानी।
+**Indrani tum shachi devi, tum kamala rani**  
+इन्द्राणी तुम शची देवी, तुम कमला रानी।  
 *You are Indra's wife Shachi, you are the lotus queen*
 
-**Dhan aishwarya ki data, karahu kalyani**
-धन ऐश्वर्य की दाता, करहु कल्याणी॥
+**Dhan aishwarya ki data, karahu kalyani**  
+धन ऐश्वर्य की दाता, करहु कल्याणी॥  
 *Giver of wealth and prosperity, please bless us*
 
-**Jai lakshmi mata**
-जय लक्ष्मी माता॥
+**Jai lakshmi mata**  
+जय लक्ष्मी माता॥  
 *Victory to Mother Lakshmi!*
 
-**Tum patal nivasini, tum shubh data**
-तुम पाताल निवासिनी, तुम शुभ दाता।
+**Tum patal nivasini, tum shubh data**  
+तुम पाताल निवासिनी, तुम शुभ दाता।  
 *You live everywhere, you give all good things*
 
-**Karma prabhav prakashak, jagnidhii mata**
-कर्म प्रभाव प्रकाशक, जगनिधि माता॥
+**Karma prabhav prakashak, jagnidhii mata**  
+कर्म प्रभाव प्रकाशक, जगनिधि माता॥  
 *You show the results of our actions, Mother of all treasures*
 
-**Jai lakshmi mata**
-जय लक्ष्मी माता॥
+**Jai lakshmi mata**  
+जय लक्ष्मी माता॥  
 *Victory to Mother Lakshmi!*
 
 ---

@@ -14,56 +14,56 @@
 
 ## Lyrics
 
-**Aarti hanuman lala ki**
-आरती हनुमान लला की।
+**Aarti hanuman lala ki**  
+आरती हनुमान लला की।  
 *Aarti of dear Hanuman*
 
-**Dusht dalan raghunath kala ki**
-दुष्ट दलन रघुनाथ कला की॥
+**Dusht dalan raghunath kala ki**  
+दुष्ट दलन रघुनाथ कला की॥  
 *Who destroys evil with Lord Rama's power*
 
-**Aarti hanuman lala ki**
-आरती हनुमान लला की॥
+**Aarti hanuman lala ki**  
+आरती हनुमान लला की॥  
 *Aarti of dear Hanuman*
 
-**Jake bal se girivar kampe**
-जाके बल से गिरिवर कांपे।
+**Jake bal se girivar kampe**  
+जाके बल से गिरिवर कांपे।  
 *With whose strength even mountains tremble*
 
-**Rog dosh jake nikat na jhanke**
-रोग दोष जाके निकट न झांके॥
+**Rog dosh jake nikat na jhanke**  
+रोग दोष जाके निकट न झांके॥  
 *Diseases and troubles don't come near him*
 
-**Anjani putr mahavir kahlaye**
-अंजनि पुत्र महावीर कहलावे।
+**Anjani putr mahavir kahlaye**  
+अंजनि पुत्र महावीर कहलावे।  
 *Son of Anjani, called the great hero*
 
-**Sankat haran mangal gun gaye**
-संकट हरण मंगल गुण गावे॥
+**Sankat haran mangal gun gaye**  
+संकट हरण मंगल गुण गावे॥  
 *Removes troubles and sings auspicious qualities*
 
-**Aarti hanuman lala ki**
-आरती हनुमान लला की॥
+**Aarti hanuman lala ki**  
+आरती हनुमान लला की॥  
 *Aarti of dear Hanuman*
 
-**Ek bar jab bhari sankat**
-एक बार जब भारी संकट।
+**Ek bar jab bhari sankat**  
+एक बार जब भारी संकट।  
 *Once when there was great trouble*
 
-**Dur na hota tha kisi upaye se**
-दूर न होता था किसी उपाए से॥
+**Dur na hota tha kisi upaye se**  
+दूर न होता था किसी उपाए से॥  
 *It couldn't be removed by any means*
 
-**Tab hanuman ji ne pragat**
-तब हनुमान जी ने प्रगट।
+**Tab hanuman ji ne pragat**  
+तब हनुमान जी ने प्रगट।  
 *Then Hanuman ji appeared*
 
-**Ho kar lila rachi apar si**
-हो कर लीला रची अपार सी॥
+**Ho kar lila rachi apar si**  
+हो कर लीला रची अपार सी॥  
 *And performed his infinite divine play*
 
-**Aarti hanuman lala ki**
-आरती हनुमान लला की॥
+**Aarti hanuman lala ki**  
+आरती हनुमान लला की॥  
 *Aarti of dear Hanuman*
 
 ---

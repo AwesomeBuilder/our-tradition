@@ -14,40 +14,40 @@
 
 ## Lyrics
 
-**Jai ambe gauri maiya jai shyama gauri**
-जय अम्बे गौरी मैया जय श्यामा गौरी।
+**Jai ambe gauri maiya jai shyama gauri**  
+जय अम्बे गौरी मैया जय श्यामा गौरी।  
 *Victory to Mother Ambe Gauri, victory to dark and fair Gauri!*
 
-**Nij sevak jan par mata, bhir gajaraj gauri**
-निज सेवक जन पर माता, भीर गजराज गौरी॥
+**Nij sevak jan par mata, bhir gajaraj gauri**  
+निज सेवक जन पर माता, भीर गजराज गौरी॥  
 *Mother protects her devotees like a mother elephant protects her babies*
 
-**Jai ambe gauri maiya jai shyama gauri**
-जय अम्बे गौरी मैया जय श्यामा गौरी॥
+**Jai ambe gauri maiya jai shyama gauri**  
+जय अम्बे गौरी मैया जय श्यामा गौरी॥  
 *Victory to Mother Ambe Gauri, victory to dark and fair Gauri!*
 
-**Tu hi adi shakti mata, parabrahm ki rani**
-तू ही अदिशक्ति माता, परब्रह्म की रानी।
+**Tu hi adi shakti mata, parabrahm ki rani**  
+तू ही अदिशक्ति माता, परब्रह्म की रानी।  
 *You are the first divine power, Mother, queen of the Supreme God*
 
-**Tujhse hi ye sakal jag mata, tu shubh gun khani**
-तुझसे ही ये सकल जग माता, तू शुभ गुण खानी॥
+**Tujhse hi ye sakal jag mata, tu shubh gun khani**  
+तुझसे ही ये सकल जग माता, तू शुभ गुण खानी॥  
 *From you comes this whole world, Mother, you are the mine of good qualities*
 
-**Jai ambe gauri maiya jai shyama gauri**
-जय अम्बे गौरी मैया जय श्यामा गौरी॥
+**Jai ambe gauri maiya jai shyama gauri**  
+जय अम्बे गौरी मैया जय श्यामा गौरी॥  
 *Victory to Mother Ambe Gauri, victory to dark and fair Gauri!*
 
-**Bhandar tere bhare hain mata, kabhi na hoven khali**
-भंडार तेरे भरे हैं माता, कभी न होवें खाली।
+**Bhandar tere bhare hain mata, kabhi na hoven khali**  
+भंडार तेरे भरे हैं माता, कभी न होवें खाली।  
 *Your stores are always full, Mother, they never become empty*
 
-**Jyoti kalash sada jale mata, tere mandir mein ali**
-ज्योति कलश सदा जले माता, तेरे मन्दिर में आली॥
+**Jyoti kalash sada jale mata, tere mandir mein ali**  
+ज्योति कलश सदा जले माता, तेरे मन्दिर में आली॥  
 *The lamp of light always burns, Mother, in your temple*
 
-**Jai ambe gauri maiya jai shyama gauri**
-जय अम्बे गौरी मैया जय श्यामा गौरी॥
+**Jai ambe gauri maiya jai shyama gauri**  
+जय अम्बे गौरी मैया जय श्यामा गौरी॥  
 *Victory to Mother Ambe Gauri, victory to dark and fair Gauri!*
 
 ---

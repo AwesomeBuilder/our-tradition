@@ -16,40 +16,40 @@
 
 ## Lyrics
 
-**Jai ganesh jai ganesh jai ganesh deva**
-जय गणेश जय गणेश जय गणेश देवा।
+**Jai ganesh jai ganesh jai ganesh deva**  
+जय गणेश जय गणेश जय गणेश देवा।  
 *Victory to Ganesha, the divine god!*
 
-**Mata jaki parvati pita mahadeva**
-माता जाकी पार्वती पिता महादेवा॥
+**Mata jaki parvati pita mahadeva**  
+माता जाकी पार्वती पिता महादेवा॥  
 *His mother is Parvati, his father is Mahadeva (Shiva)*
 
-**Jai ganesh jai ganesh jai ganesh deva**
-जय गणेश जय गणेश जय गणेश देवा॥
+**Jai ganesh jai ganesh jai ganesh deva**  
+जय गणेश जय गणेश जय गणेश देवा॥  
 *Victory to Ganesha, the divine god!*
 
-**Sindur lepan lalat pe, sundar bhrikuti ke beech**
-सिंदूर लेपन ललाट पे, सुन्दर भृकुटि के बीच।
+**Sindur lepan lalat pe, sundar bhrikuti ke beech**  
+सिंदूर लेपन ललाट पे, सुन्दर भृकुटि के बीच।  
 *Beautiful red sindoor on his forehead, between his lovely eyebrows*
 
-**Mathe pe tilak raje, mustak mein jata ke neech**
-माथे पे तिलक राजे, मुस्तक में जटा के नीच॥
+**Mathe pe tilak raje, mustak mein jata ke neech**  
+माथे पे तिलक राजे, मुस्तक में जटा के नीच॥  
 *Tilaka shines on his forehead, below his matted hair*
 
-**Jai ganesh jai ganesh jai ganesh deva**
-जय गणेश जय गणेश जय गणेश देवा॥
+**Jai ganesh jai ganesh jai ganesh deva**  
+जय गणेश जय गणेश जय गणेश देवा॥  
 *Victory to Ganesha, the divine god!*
 
-**Pan chadhe phal chadhe aur chadhe meva**
-पान चढ़े फल चढ़े और चढ़े मेवा।
+**Pan chadhe phal chadhe aur chadhe meva**  
+पान चढ़े फल चढ़े और चढ़े मेवा।  
 *We offer betel leaves, fruits, and dry fruits*
 
-**Ladduan ka bhog lage, sant karen seva**
-लड्डुअन का भोग लगे, सन्त करें सेवा॥
+**Ladduan ka bhog lage, sant karen seva**  
+लड्डुअन का भोग लगे, सन्त करें सेवा॥  
 *Laddus are offered as prasad, holy people serve him with love*
 
-**Jai ganesh jai ganesh jai ganesh deva**
-जय गणेश जय गणेश जय गणेश देवा॥
+**Jai ganesh jai ganesh jai ganesh deva**  
+जय गणेश जय गणेश जय गणेश देवा॥  
 *Victory to Ganesha, the divine god!*
 
 ---

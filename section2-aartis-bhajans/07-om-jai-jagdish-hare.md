@@ -15,80 +15,80 @@
 
 ## Lyrics
 
-**Om jai jagdish hare, swami jai jagdish hare**
-ॐ जय जगदीश हरे, स्वामी जय जगदीश हरे।
+**Om jai jagdish hare, swami jai jagdish hare**  
+ॐ जय जगदीश हरे, स्वामी जय जगदीश हरे।  
 *Om, victory to the Lord of the universe, Master!*
 
-**Bhakt janon ke sankat, das janon ke sankat**
-भक्त जनों के संकट, दास जनों के संकट,
+**Bhakt janon ke sankat, das janon ke sankat**  
+भक्त जनों के संकट, दास जनों के संकट,  
 *The troubles of devotees, the troubles of servants*
 
-**Kshan mein dur kare**
-क्षण में दूर करे॥
+**Kshan mein dur kare**  
+क्षण में दूर करे॥  
 *You remove in just a moment*
 
-**Om jai jagdish hare**
-ॐ जय जगदीश हरे॥
+**Om jai jagdish hare**  
+ॐ जय जगदीश हरे॥  
 *Om, victory to the Lord of the universe!*
 
-**Jo dhyave phal pave, dukh binse man ka**
-जो ध्यावे फल पावे, दुःख बिनसे मन का।
+**Jo dhyave phal pave, dukh binse man ka**  
+जो ध्यावे फल पावे, दुःख बिनसे मन का।  
 *Those who remember you get results, sadness leaves the heart*
 
-**Swami dukh binse man ka**
-स्वामी दुःख बिनसे मन का।
+**Swami dukh binse man ka**  
+स्वामी दुःख बिनसे मन का।  
 *Master, sadness leaves the heart*
 
-**Sukh sampati ghar ave, sukh sampati ghar ave**
-सुख सम्पति घर आवे, सुख सम्पति घर आवे,
+**Sukh sampati ghar ave, sukh sampati ghar ave**  
+सुख सम्पति घर आवे, सुख सम्पति घर आवे,  
 *Happiness and prosperity come to the home*
 
-**Kasht mite tan ka**
-कष्ट मिटे तन का॥
+**Kasht mite tan ka**  
+कष्ट मिटे तन का॥  
 *Body's troubles disappear*
 
-**Om jai jagdish hare**
-ॐ जय जगदीश हरे॥
+**Om jai jagdish hare**  
+ॐ जय जगदीश हरे॥  
 *Om, victory to the Lord of the universe!*
 
-**Mat pita tum mere, sharan gahun main kiski**
-मात पिता तुम मेरे, शरण गहूं मैं किसकी।
+**Mat pita tum mere, sharan gahun main kiski**  
+मात पिता तुम मेरे, शरण गहूं मैं किसकी।  
 *You are my mother and father, whose shelter should I take?*
 
-**Swami sharan gahun main kiski**
-स्वामी शरण गहूं मैं किसकी।
+**Swami sharan gahun main kiski**  
+स्वामी शरण गहूं मैं किसकी।  
 *Master, whose shelter should I take?*
 
-**Tum bin aur na duja, tum bin aur na duja**
-तुम बिन और न दूजा, तुम बिन और न दूजा,
+**Tum bin aur na duja, tum bin aur na duja**  
+तुम बिन और न दूजा, तुम बिन और न दूजा,  
 *Without you there is no one else*
 
-**Aas karun main jiski**
-आस करूं मैं जिसकी॥
+**Aas karun main jiski**  
+आस करूं मैं जिसकी॥  
 *From whom I can have hope*
 
-**Om jai jagdish hare**
-ॐ जय जगदीश हरे॥
+**Om jai jagdish hare**  
+ॐ जय जगदीश हरे॥  
 *Om, victory to the Lord of the universe!*
 
-**Tum puran paramatma, tum antaryami**
-तुम पूरण परमात्मा, तुम अन्तर्यामी।
+**Tum puran paramatma, tum antaryami**  
+तुम पूरण परमात्मा, तुम अन्तर्यामी।  
 *You are the complete Supreme Soul, you know our hearts*
 
-**Swami tum antaryami**
-स्वामी तुम अन्तर्यामी।
+**Swami tum antaryami**  
+स्वामी तुम अन्तर्यामी।  
 *Master, you know our hearts*
 
-**Par brahma parmeshwar, par brahma parmeshwar**
-पार ब्रह्म परमेश्वर, पार ब्रह्म परमेश्वर,
+**Par brahma parmeshwar, par brahma parmeshwar**  
+पार ब्रह्म परमेश्वर, पार ब्रह्म परमेश्वर,  
 *Supreme divine, Supreme God*
 
-**Tum sab ke swami**
-तुम सब के स्वामी॥
+**Tum sab ke swami**  
+तुम सब के स्वामी॥  
 *You are everyone's master*
 
-**Om jai jagdish hare**
-ॐ जय जगदीश हरे॥
+**Om jai jagdish hare**  
+ॐ जय जगदीश हरे॥  
 *Om, victory to the Lord of the universe!*
 
 ---
