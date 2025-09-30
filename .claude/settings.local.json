@@ -4,7 +4,8 @@
       "Bash(git mv:*)",
       "mcp__context7__resolve-library-id",
       "mcp__context7__get-library-docs",
-      "Bash(npx create-docusaurus:*)"
+      "Bash(npx create-docusaurus:*)",
+      "Read(//var/folders/r4/yls29kv16gg6ps64j0qrv3dm0000gn/T/TemporaryItems/NSIRD_screencaptureui_ehDPkt/**)"
     ],
     "deny": [],
     "ask": []
