@@ -64,9 +64,9 @@
 
 ## Related Festivals
 
-- **[Chaitra Navratri](../section1-festivals/03-chaitra-navratri.md)**
-- **[Sharad Navratri](../section1-festivals/08-sharad-navratri.md)**
-- **[Dussehra](../section1-festivals/09-dussehra.md)**
+- **[Chaitra Navratri](../section1-festivals/05-chaitra-navratri.md)**
+- **[Sharad Navratri](../section1-festivals/09-sharad-navratri.md)**
+- **[Dussehra](../section1-festivals/10-dussehra.md)**
 
 ---
 

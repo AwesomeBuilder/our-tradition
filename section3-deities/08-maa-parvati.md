@@ -82,14 +82,14 @@ Parvati and Shiva's home on Mount Kailash is filled with joy, music, and divine 
 ---
 
 ## Related Festivals & Celebrations
-- **[Maha Shivaratri](../section1-festivals/01-maha-shivaratri.md)** - Celebrating Shiva-Parvati's divine marriage
-- **[Karva Chauth](../section1-festivals/10-karva-chauth.md)** - Inspired by Parvati's devotion to Shiva
+- **[Maha Shivaratri](../section1-festivals/03-maha-shivaratri.md)** - Celebrating Shiva-Parvati's divine marriage
+- **[Karva Chauth](../section1-festivals/11-karva-chauth.md)** - Inspired by Parvati's devotion to Shiva
 - **Teej Festival** - Celebrating married women's love (in some regions)
 
 ---
 
 ## Related Aartis & Bhajans
-- **[Jai Shiv Omkara](../section2-aartis-bhajans/08-jai-shiv-omkara.md)** - Praising Shiva-Parvati together
+- **[Jai Shiv Omkara](../section2-aartis-bhajans/06-jai-shiv-omkara.md)** - Praising Shiva-Parvati together
 
 ---
 

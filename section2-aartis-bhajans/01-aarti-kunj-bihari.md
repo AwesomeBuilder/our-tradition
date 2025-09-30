@@ -58,8 +58,8 @@
 
 ## Related Festivals
 
-- **[Krishna Janmashtami](../section1-festivals/05-krishna-janmashtami.md)**
-- **[Govardhan Puja](../section1-festivals/13-govardhan-puja.md)**
+- **[Krishna Janmashtami](../section1-festivals/07-krishna-janmashtami.md)**
+- **[Govardhan Puja](../section1-festivals/14-govardhan-puja.md)**
 
 ---
 

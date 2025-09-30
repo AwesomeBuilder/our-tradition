@@ -78,14 +78,14 @@ Each form represents a different quality we can develop:
 ---
 
 ## Related Festivals & Celebrations
-- **[Chaitra Navratri](../section1-festivals/03-chaitra-navratri.md)** - Spring celebration of Durga
-- **[Sharad Navratri](../section1-festivals/08-sharad-navratri.md)** - Main autumn Durga festival
-- **[Dussehra](../section1-festivals/09-dussehra.md)** - Victory over evil
+- **[Chaitra Navratri](../section1-festivals/05-chaitra-navratri.md)** - Spring celebration of Durga
+- **[Sharad Navratri](../section1-festivals/09-sharad-navratri.md)** - Main autumn Durga festival
+- **[Dussehra](../section1-festivals/10-dussehra.md)** - Victory over evil
 
 ---
 
 ## Related Aartis & Bhajans
-- **[Jai Ambe Gauri](../section2-aartis-bhajans/05-jai-ambe-gauri.md)** - Main Durga aarti
+- **[Jai Ambe Gauri](../section2-aartis-bhajans/03-jai-ambe-gauri.md)** - Main Durga aarti
 
 ---
 

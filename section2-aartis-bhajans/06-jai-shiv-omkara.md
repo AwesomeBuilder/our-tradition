@@ -53,7 +53,7 @@
 
 ## Related Festivals
 
-- **[Maha Shivaratri](../section1-festivals/01-maha-shivaratri.md)**
+- **[Maha Shivaratri](../section1-festivals/03-maha-shivaratri.md)**
 
 ---
 

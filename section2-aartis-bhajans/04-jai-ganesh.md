@@ -64,10 +64,10 @@
 
 ## Related Festivals
 
-- **[Dhanteras](../section1-festivals/11-dhanteras.md)**
-- **[Diwali](../section1-festivals/12-diwali.md)**
-- **[Karva Chauth](../section1-festivals/10-karva-chauth.md)**
-- **[Govardhan Puja](../section1-festivals/13-govardhan-puja.md)**
+- **[Dhanteras](../section1-festivals/12-dhanteras.md)**
+- **[Diwali](../section1-festivals/13-diwali.md)**
+- **[Karva Chauth](../section1-festivals/11-karva-chauth.md)**
+- **[Govardhan Puja](../section1-festivals/14-govardhan-puja.md)**
 
 ---
 

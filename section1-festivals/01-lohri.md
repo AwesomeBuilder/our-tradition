@@ -38,8 +38,8 @@ We gather around a big bonfire and throw offerings like sesame seeds, jaggery, a
 
 ### Aartis & Bhajans
 
-- **[Om Jai Jagdish Hare](../section2-aartis-bhajans/10-om-jai-jagdish-hare.md)** *(universal prayer)*
-- **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/06-jai-ganesh.md)** *(opening prayer)*
+- **[Om Jai Jagdish Hare](../section2-aartis-bhajans/07-om-jai-jagdish-hare.md)** *(universal prayer)*
+- **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/04-jai-ganesh.md)** *(opening prayer)*
 
 ### Deities
 

@@ -51,7 +51,7 @@ This teaches us to take care of nature and not be proud or bossy with others.
 ### Aartis & Bhajans
 
 - **[Aarti Kunj Bihari Ki](../section2-aartis-bhajans/01-aarti-kunj-bihari.md)**
-- **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/06-jai-ganesh.md)**
+- **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/04-jai-ganesh.md)**
 
 ### Deities
 

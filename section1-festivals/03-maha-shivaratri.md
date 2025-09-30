@@ -26,8 +26,8 @@ Long ago, when the world was in darkness, Lord Shiva performed the Tandava - his
 
 ### Aartis & Bhajans
 
-- **[Jai Shiv Omkara](../section2-aartis-bhajans/08-jai-shiv-omkara.md)**
-- **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/06-jai-ganesh.md)** *(opening prayer)*
+- **[Jai Shiv Omkara](../section2-aartis-bhajans/06-jai-shiv-omkara.md)**
+- **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/04-jai-ganesh.md)** *(opening prayer)*
 
 ### Deities
 

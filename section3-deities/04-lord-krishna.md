@@ -85,10 +85,10 @@ During the great war in the Mahabharata, Krishna became Arjuna's charioteer and 
 ---
 
 ## Related Festivals & Celebrations
-- **[Krishna Janmashtami](../section1-festivals/05-krishna-janmashtami.md)** - Krishna's birthday
-- **[Holi](../section1-festivals/02-holi.md)** - Festival of colors (Krishna's playfulness)
-- **[Govardhan Puja](../section1-festivals/13-govardhan-puja.md)** - When Krishna lifted the mountain
-- **[Raksha Bandhan](../section1-festivals/07-raksha-bandhan.md)** - Krishna's protection of Draupadi
+- **[Krishna Janmashtami](../section1-festivals/07-krishna-janmashtami.md)** - Krishna's birthday
+- **[Holi](../section1-festivals/04-holi.md)** - Festival of colors (Krishna's playfulness)
+- **[Govardhan Puja](../section1-festivals/14-govardhan-puja.md)** - When Krishna lifted the mountain
+- **[Raksha Bandhan](../section1-festivals/08-raksha-bandhan.md)** - Krishna's protection of Draupadi
 
 ---
 

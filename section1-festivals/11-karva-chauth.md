@@ -54,7 +54,7 @@ The festival teaches us that in a family, we care for each other and pray for ea
 
 ### Aartis & Bhajans
 
-- **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/06-jai-ganesh.md)**
+- **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/04-jai-ganesh.md)**
 
 ### Deities
 

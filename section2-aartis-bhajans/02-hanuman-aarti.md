@@ -80,7 +80,7 @@
 
 ## Related Festivals
 
-- **[Ram Navami](../section1-festivals/04-ram-navami.md)**
+- **[Ram Navami](../section1-festivals/06-ram-navami.md)**
 
 ---
 

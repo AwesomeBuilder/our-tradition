@@ -75,8 +75,8 @@
 
 ## Related Festivals
 
-- **[Dhanteras](../section1-festivals/11-dhanteras.md)**
-- **[Diwali](../section1-festivals/12-diwali.md)**
+- **[Dhanteras](../section1-festivals/12-dhanteras.md)**
+- **[Diwali](../section1-festivals/13-diwali.md)**
 
 ---
 

@@ -51,8 +51,8 @@ Each day has a special color to wear:
 
 ### Aartis & Bhajans
 
-- **[Jai Ambe Gauri](../section2-aartis-bhajans/05-jai-ambe-gauri.md)**
-- **[Om Jai Jagdish Hare](../section2-aartis-bhajans/10-om-jai-jagdish-hare.md)**
+- **[Jai Ambe Gauri](../section2-aartis-bhajans/03-jai-ambe-gauri.md)**
+- **[Om Jai Jagdish Hare](../section2-aartis-bhajans/07-om-jai-jagdish-hare.md)**
 
 ### Deities
 

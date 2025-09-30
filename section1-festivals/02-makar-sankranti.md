@@ -50,8 +50,8 @@ To thank Surya for bringing warmth and light, people take holy baths in rivers, 
 
 ### Aartis & Bhajans
 
-- **[Om Jai Jagdish Hare](../section2-aartis-bhajans/10-om-jai-jagdish-hare.md)** *(universal prayer to the divine light)*
-- **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/06-jai-ganesh.md)** *(opening prayer)*
+- **[Om Jai Jagdish Hare](../section2-aartis-bhajans/07-om-jai-jagdish-hare.md)** *(universal prayer to the divine light)*
+- **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/04-jai-ganesh.md)** *(opening prayer)*
 
 ### Deities
 

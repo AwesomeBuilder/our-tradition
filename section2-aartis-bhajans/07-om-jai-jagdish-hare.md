@@ -104,11 +104,11 @@
 
 ## Related Festivals
 
-- **[Chaitra Navratri](../section1-festivals/03-chaitra-navratri.md)**
-- **[Sharad Navratri](../section1-festivals/08-sharad-navratri.md)**
-- **[Dussehra](../section1-festivals/09-dussehra.md)**
-- **[Krishna Janmashtami](../section1-festivals/05-krishna-janmashtami.md)**
-- **[Diwali](../section1-festivals/12-diwali.md)**
+- **[Chaitra Navratri](../section1-festivals/05-chaitra-navratri.md)**
+- **[Sharad Navratri](../section1-festivals/09-sharad-navratri.md)**
+- **[Dussehra](../section1-festivals/10-dussehra.md)**
+- **[Krishna Janmashtami](../section1-festivals/07-krishna-janmashtami.md)**
+- **[Diwali](../section1-festivals/13-diwali.md)**
 
 ---
 

@@ -46,8 +46,8 @@ Years later, when Draupadi was in great trouble in the royal court, Krishna kept
 
 ### Aartis & Bhajans
 
-- **[Om Jai Jagdish Hare](../section2-aartis-bhajans/10-om-jai-jagdish-hare.md)**
-- **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/06-jai-ganesh.md)** *(opening prayer)*
+- **[Om Jai Jagdish Hare](../section2-aartis-bhajans/07-om-jai-jagdish-hare.md)**
+- **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/04-jai-ganesh.md)** *(opening prayer)*
 
 ### Deities
 

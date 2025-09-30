@@ -54,8 +54,8 @@ Dussehra celebrates two great victories that happened on the same day:
 
 ### Aartis & Bhajans
 
-- **[Jai Ambe Gauri](../section2-aartis-bhajans/05-jai-ambe-gauri.md)** *(if following Durga Puja emphasis)*
-- **[Om Jai Jagdish Hare](../section2-aartis-bhajans/10-om-jai-jagdish-hare.md)**
+- **[Jai Ambe Gauri](../section2-aartis-bhajans/03-jai-ambe-gauri.md)** *(if following Durga Puja emphasis)*
+- **[Om Jai Jagdish Hare](../section2-aartis-bhajans/07-om-jai-jagdish-hare.md)**
 
 ### Deities
 

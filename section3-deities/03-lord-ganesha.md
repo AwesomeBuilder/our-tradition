@@ -65,14 +65,14 @@ Ganesha broke off one of his tusks to use as a pen when writing down the great e
 ---
 
 ## Related Festivals & Celebrations
-- **[Diwali](../section1-festivals/12-diwali.md)** - Worshipped with Lakshmi for prosperity
-- **[Dhanteras](../section1-festivals/11-dhanteras.md)** - Invoked before Lakshmi worship
-- **[Karva Chauth](../section1-festivals/10-karva-chauth.md)** - For removing obstacles in marriage
+- **[Diwali](../section1-festivals/13-diwali.md)** - Worshipped with Lakshmi for prosperity
+- **[Dhanteras](../section1-festivals/12-dhanteras.md)** - Invoked before Lakshmi worship
+- **[Karva Chauth](../section1-festivals/11-karva-chauth.md)** - For removing obstacles in marriage
 
 ---
 
 ## Related Aartis & Bhajans
-- **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/06-jai-ganesh.md)** - Opening prayer for all ceremonies
+- **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/04-jai-ganesh.md)** - Opening prayer for all ceremonies
 - Every aarti begins with Ganesha's prayer!
 
 ---

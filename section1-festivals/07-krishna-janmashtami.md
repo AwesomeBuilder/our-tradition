@@ -36,7 +36,7 @@ As a child, Krishna was very playful - he would steal butter, play pranks, and m
 ### Aartis & Bhajans
 
 - **[Aarti Kunj Bihari Ki](../section2-aartis-bhajans/01-aarti-kunj-bihari.md)**
-- **[Om Jai Jagdish Hare](../section2-aartis-bhajans/10-om-jai-jagdish-hare.md)**
+- **[Om Jai Jagdish Hare](../section2-aartis-bhajans/07-om-jai-jagdish-hare.md)**
 
 ### Deities
 

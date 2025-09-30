@@ -83,13 +83,13 @@ When Ravana's soldiers set Hanuman's tail on fire, he used it as an opportunity 
 ---
 
 ## Related Festivals & Celebrations
-- **[Ram Navami](../section1-festivals/04-ram-navami.md)** - Celebrating Hanuman's beloved Rama
+- **[Ram Navami](../section1-festivals/06-ram-navami.md)** - Celebrating Hanuman's beloved Rama
 - **Hanuman Jayanti** - Hanuman's birthday (Tuesday is his special day)
 
 ---
 
 ## Related Aartis & Bhajans
-- **[Hanuman Aarti](../section2-aartis-bhajans/04-hanuman-aarti.md)** - Praising the mighty devotee
+- **[Hanuman Aarti](../section2-aartis-bhajans/02-hanuman-aarti.md)** - Praising the mighty devotee
 - **Hanuman Chalisa** - 40 verses of devotion
 
 ---

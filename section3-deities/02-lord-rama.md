@@ -61,14 +61,14 @@ After defeating Ravana, Rama returned to Ayodhya where people welcomed him with 
 ---
 
 ## Related Festivals & Celebrations
-- **[Ram Navami](../section1-festivals/04-ram-navami.md)** - Rama's birthday
-- **[Dussehra](../section1-festivals/09-dussehra.md)** - Victory over Ravana
-- **[Diwali](../section1-festivals/12-diwali.md)** - Rama's return to Ayodhya
+- **[Ram Navami](../section1-festivals/06-ram-navami.md)** - Rama's birthday
+- **[Dussehra](../section1-festivals/10-dussehra.md)** - Victory over Ravana
+- **[Diwali](../section1-festivals/13-diwali.md)** - Rama's return to Ayodhya
 
 ---
 
 ## Related Aartis & Bhajans
-- **[Hanuman Aarti](../section2-aartis-bhajans/04-hanuman-aarti.md)** - Praising Rama's devotee
+- **[Hanuman Aarti](../section2-aartis-bhajans/02-hanuman-aarti.md)** - Praising Rama's devotee
 
 ---
 

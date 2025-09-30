@@ -83,8 +83,8 @@ The dance between Radha, Krishna, and the gopis isn't just a story—it's a spir
 ---
 
 ## Related Festivals & Celebrations
-- **[Krishna Janmashtami](../section1-festivals/05-krishna-janmashtami.md)** - Celebrating Krishna also honors Radha
-- **[Holi](../section1-festivals/02-holi.md)** - The colors represent Radha-Krishna's playful love
+- **[Krishna Janmashtami](../section1-festivals/07-krishna-janmashtami.md)** - Celebrating Krishna also honors Radha
+- **[Holi](../section1-festivals/04-holi.md)** - The colors represent Radha-Krishna's playful love
 - **Radhastami** - Radha's appearance day (in some traditions)
 
 ---

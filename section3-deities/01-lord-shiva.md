@@ -55,12 +55,12 @@ When Parvati created Ganesha to guard her, Shiva unknowingly beheaded him. To co
 ---
 
 ## Related Festivals & Celebrations
-- **[Maha Shivaratri](../section1-festivals/01-maha-shivaratri.md)** - The Great Night of Shiva
+- **[Maha Shivaratri](../section1-festivals/03-maha-shivaratri.md)** - The Great Night of Shiva
 
 ---
 
 ## Related Aartis & Bhajans
-- **[Jai Shiv Omkara](../section2-aartis-bhajans/08-jai-shiv-omkara.md)** - Main Shiva aarti
+- **[Jai Shiv Omkara](../section2-aartis-bhajans/06-jai-shiv-omkara.md)** - Main Shiva aarti
 
 ---
 

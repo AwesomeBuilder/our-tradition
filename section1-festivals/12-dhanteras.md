@@ -42,8 +42,8 @@ Also from the ocean came **Goddess Lakshmi**, sitting on a lotus flower, bringin
 
 ### Aartis & Bhajans
 
-- **[Jai Laxmi Mata](../section2-aartis-bhajans/07-jai-laxmi-mata.md)**
-- **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/06-jai-ganesh.md)**
+- **[Jai Laxmi Mata](../section2-aartis-bhajans/05-jai-laxmi-mata.md)**
+- **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/04-jai-ganesh.md)**
 
 ### Deities
 

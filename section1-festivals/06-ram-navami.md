@@ -39,8 +39,8 @@ The most important lesson from Rama's life is that we should always choose what 
 
 ### Aartis & Bhajans
 
-- **[Hanuman Aarti](../section2-aartis-bhajans/04-hanuman-aarti.md)**
-- **[Om Jai Jagdish Hare](../section2-aartis-bhajans/10-om-jai-jagdish-hare.md)**
+- **[Hanuman Aarti](../section2-aartis-bhajans/02-hanuman-aarti.md)**
+- **[Om Jai Jagdish Hare](../section2-aartis-bhajans/07-om-jai-jagdish-hare.md)**
 
 ### Deities
 

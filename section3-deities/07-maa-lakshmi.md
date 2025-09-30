@@ -81,14 +81,14 @@ Lakshmi gives four types of prosperity: Dhana (money), Dhanya (food grains), Gaj
 ---
 
 ## Related Festivals & Celebrations
-- **[Dhanteras](../section1-festivals/11-dhanteras.md)** - Welcoming Lakshmi for Diwali
-- **[Diwali](../section1-festivals/12-diwali.md)** - Main Lakshmi celebration
+- **[Dhanteras](../section1-festivals/12-dhanteras.md)** - Welcoming Lakshmi for Diwali
+- **[Diwali](../section1-festivals/13-diwali.md)** - Main Lakshmi celebration
 - **Friday evenings** - Weekly Lakshmi worship
 
 ---
 
 ## Related Aartis & Bhajans
-- **[Jai Laxmi Mata](../section2-aartis-bhajans/07-jai-laxmi-mata.md)** - Main Lakshmi aarti
+- **[Jai Laxmi Mata](../section2-aartis-bhajans/05-jai-laxmi-mata.md)** - Main Lakshmi aarti
 
 ---
 
