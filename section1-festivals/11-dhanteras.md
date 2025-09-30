@@ -1,23 +1,6 @@
 # Dhanteras
-*October-November*
 
-## Deity Focus
-**Maa Lakshmi, Lord Dhanvantari, Lord Kubera**
-
-## When We Celebrate
-**1st day of Diwali festival**
-
-## Scriptural Sources
-- **Puranic traditions**
-- **Bhagavata Purana** (Lakshmi/Krishna traditions)
-- **Samudra Manthan** lore (emergence of Dhanvantari)
-
-**Traditional Dating & Era:** Mythic time; widely observed since early medieval period
-
----
-
-## Core Story
-*(For reading aloud)*
+## Story
 
 Long, long ago, the gods and demons decided to churn the great ocean to find the nectar of immortality (amrita). As they churned the ocean with a huge mountain and a serpent, many wonderful things came out of the water.
 
@@ -26,7 +9,6 @@ One of the most important was **Dhanvantari**, the divine doctor, who emerged ca
 Also from the ocean came **Goddess Lakshmi**, sitting on a lotus flower, bringing prosperity and wealth. We pray to her for abundance - not just money, but abundance of love, happiness, and good things in life.
 
 ## Symbols & Meanings
-*(Kid-friendly)*
 
 - **New utensil/purchase** = Invite prosperity with honesty and generosity
 - **Health & wealth** = Both are for sharing and helping others (seva)
@@ -49,11 +31,7 @@ Also from the ocean came **Goddess Lakshmi**, sitting on a lotus flower, bringin
 - **Home items** - Something useful for the house
 - **Coins** - Small silver/gold coins with Lakshmi image
 
-### *[PHOTO PLACEHOLDER]*
-
----
-
-## Prayers for Dhanteras
+### Prayers for Dhanteras
 
 - **For Health** - "Keep our family healthy and strong"
 - **For Prosperity** - "Give us enough to share with others"
@@ -62,20 +40,13 @@ Also from the ocean came **Goddess Lakshmi**, sitting on a lotus flower, bringin
 
 ---
 
-## Family Memories & Notes
-*Space for our own experiences and photos*
-
----
-
-## Related Aartis & Bhajans
+### Aartis & Bhajans
 
 - **[Jai Laxmi Mata](../section2-aartis-bhajans/07-jai-laxmi-mata.md)**
 - **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/06-jai-ganesh.md)**
 - **[Shree Kubera Aarti (optional)](../section2-aartis-bhajans/13-kubera-aarti.md)**
 
----
-
-## Learn More About the Deities
+### Deities
 
 - **[Maa Lakshmi](../section3-deities/07-maa-lakshmi.md)** - Goddess of prosperity and abundance
 - **[Lord Ganesha](../section3-deities/03-lord-ganesha.md)** - Remover of obstacles, worshipped before Lakshmi

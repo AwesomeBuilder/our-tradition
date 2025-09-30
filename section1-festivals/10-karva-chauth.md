@@ -1,22 +1,6 @@
 # Karva Chauth
-*October-November*
 
-## Deity Focus
-**Maa Parvati** with Lord Shiva and Ganesha
-
-## When We Celebrate
-**4th day after full moon in Kartik**
-
-## Scriptural Sources
-- **Puranic/katha traditions** (regional)
-- Shiva-Parvati lore
-
-**Traditional Dating & Era:** Medieval regional practice formalized; rooted in Shiva–Parvati lore
-
----
-
-## Core Story
-*(For reading aloud)*
+## Story
 
 Long ago, there lived a devoted wife who loved her husband very much. She decided to fast for his long life and well-being. She didn't eat or drink anything the whole day and waited for the moon to rise in the evening.
 
@@ -34,7 +18,6 @@ The festival teaches us that in a family, we care for each other and pray for ea
 6. **Breaking fast** - Husband offers first sip of water
 
 ## Symbols & Meanings
-*(Kid-friendly)*
 
 - **Moon-sighting** = Patience, devotion, and care in relationships
 - **Beautiful dress** = Making special effort for loved ones
@@ -59,11 +42,7 @@ The festival teaches us that in a family, we care for each other and pray for ea
 - **Water for offering**
 - **Sieve to see moon**
 
-### *[PHOTO PLACEHOLDER]*
-
----
-
-## Modern Understanding
+### Modern Understanding
 
 - **Mutual care** - Both husband and wife care for each other
 - **Family tradition** - Connecting with generations of women
@@ -73,19 +52,12 @@ The festival teaches us that in a family, we care for each other and pray for ea
 
 ---
 
-## Family Memories & Notes
-*Space for our own experiences and photos*
-
----
-
-## Related Aartis & Bhajans
+### Aartis & Bhajans
 
 - **[Karva Chauth Aarti (Veero Karo Shravan Suno)](../section2-aartis-bhajans/09-karva-chauth-aarti.md)**
 - **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/06-jai-ganesh.md)**
 
----
-
-## Learn More About the Deities
+### Deities
 
 - **[Maa Parvati](../section3-deities/08-maa-parvati.md)** - The devoted wife whose love inspired this festival
 - **[Lord Shiva](../section3-deities/01-lord-shiva.md)** - Parvati's beloved husband

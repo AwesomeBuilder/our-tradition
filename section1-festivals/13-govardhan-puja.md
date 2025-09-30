@@ -1,22 +1,6 @@
 # Govardhan Puja (Annakut)
-*October-November*
 
-## Deity Focus
-**Lord Krishna** (Govardhan Nath)
-
-## When We Celebrate
-**Day after Diwali**
-
-## Scriptural Sources
-- **Bhagavata Purana**
-- **Braj lore**
-
-**Traditional Dating & Era:** Dvapara Yuga (~5,000 years ago by tradition)
-
----
-
-## Core Story
-*(For reading aloud)*
+## Story
 
 After Diwali comes a beautiful story about young Krishna and his love for nature and people!
 
@@ -29,7 +13,6 @@ But Krishna had a plan. He lifted the entire Govardhan Hill like an umbrella and
 This teaches us to take care of nature and not be proud or bossy with others.
 
 ## Symbols & Meanings
-*(Kid-friendly)*
 
 - **Annakut (food mountain)** = Gratitude and sharing abundance
 - **Govardhan Hill** = Nature protects us, so we should protect nature
@@ -55,11 +38,7 @@ This teaches us to take care of nature and not be proud or bossy with others.
 - **Dairy** - Milk, butter, cheese
 - **Nuts and seeds**
 
-### *[PHOTO PLACEHOLDER]*
-
----
-
-## Krishna's Lessons for Us
+### Krishna's Lessons for Us
 
 - **Respect Nature** - Trees, hills, rivers are our friends
 - **Help Others** - Protect those who need help
@@ -69,20 +48,13 @@ This teaches us to take care of nature and not be proud or bossy with others.
 
 ---
 
-## Family Memories & Notes
-*Space for our own experiences and photos*
-
----
-
-## Related Aartis & Bhajans
+### Aartis & Bhajans
 
 - **[Aarti Kunj Bihari Ki](../section2-aartis-bhajans/01-aarti-kunj-bihari.md)**
 - **[Shree Krishna Govardhan Aarti](../section2-aartis-bhajans/12-govardhan-aarti.md)**
 - **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/06-jai-ganesh.md)**
 
----
-
-## Learn More About the Deities
+### Deities
 
 - **[Lord Krishna](../section3-deities/04-lord-krishna.md)** - Complete stories of the divine cowherd who lifted Govardhan
 - **[Lord Ganesha](../section3-deities/03-lord-ganesha.md)** - Remover of obstacles, worshipped before starting celebrations

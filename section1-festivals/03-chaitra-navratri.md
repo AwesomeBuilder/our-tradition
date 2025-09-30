@@ -1,22 +1,6 @@
 # Chaitra Navratri
-*March-April*
 
-## Deity Focus
-**Maa Durga** (nine forms)
-
-## When We Celebrate
-**9 days in March/April** - Spring Navratri
-
-## Scriptural Sources
-- **Devi Mahatmya** (Durga Saptashati/Chandi) within the **Markandeya Purana**
-- Regional texts and traditions
-
-**Traditional Dating & Era:** Mythic time; celebrated from classical/medieval period onwards
-
----
-
-## Core Story
-*(For reading aloud)*
+## Story
 
 Durga, empowered by the combined energies of all the gods, battles and defeats the shape-shifting demon Mahishasura across nine nights. Each day honors a different form of the Divine Mother, from gentle to warrior. The tenth day celebrates victory.
 
@@ -35,7 +19,6 @@ Long ago, a powerful demon named Mahishasura could change into any form - buffal
 9. **Siddhidatri** - Giver of perfection (wisdom)
 
 ## Symbols & Meanings
-*(Kid-friendly)*
 
 - **Nine forms** = Nine strengths we practice: courage, kindness, learning, discipline, patience, fearlessness, focus, joy, and faith
 - **Durga on a lion** = Bravery to stand up to bullies (outer and inner)
@@ -51,24 +34,15 @@ Long ago, a powerful demon named Mahishasura could change into any form - buffal
 - Story-time for Ayan about each form
 - Kanya puja on Ashtami/Navami (honoring young girls)
 
-### *[PHOTO PLACEHOLDER]*
-
 ---
 
-## Family Memories & Notes
-*Space for our own experiences and photos*
-
----
-
-## Related Aartis & Bhajans
+### Aartis & Bhajans
 
 - **[Jai Ambe Gauri (Durga Aarti)](../section2-aartis-bhajans/05-jai-ambe-gauri.md)**
 - **[Ya Devi Sarvabhuteshu (Devi Stuti)](../section2-aartis-bhajans/15-ya-devi-sarvabhuteshu.md)**
 - **[Durga Chalisa](../section2-aartis-bhajans/02-durga-chalisa.md)**
 - **[Om Jai Jagdish Hare](../section2-aartis-bhajans/10-om-jai-jagdish-hare.md)**
 
----
-
-## Learn More About the Deities
+### Deities
 
 - **[Maa Durga](../section3-deities/06-maa-durga.md)** - Complete stories of the Divine Mother Protector

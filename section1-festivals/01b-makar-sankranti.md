@@ -1,23 +1,6 @@
 # Makar Sankranti
-*January*
 
-## Deity Focus
-**Surya (Sun God)**
-
-## When We Celebrate
-**14th January** - Solar transition festival
-
-## Scriptural Sources
-- **Surya-related hymns** in the Vedas
-- **Bhavishya Purana** (solar calendar observances)
-- **Astronomical traditions**
-
-**Traditional Dating & Era:** Based on ancient solar calendar; one of the few festivals tied to the Sun's movement
-
----
-
-## Core Story
-*(For reading aloud)*
+## Story
 
 On this special day, the Sun God (Surya) begins his journey northward in the sky! This means that from now on, the days will get longer and warmer, and the cold winter nights will become shorter.
 
@@ -26,7 +9,6 @@ Unlike other festivals that have big stories with gods and demons, Makar Sankran
 To thank Surya for bringing warmth and light, people take holy baths in rivers, fly colorful kites high in the sky, and share sweet treats made with sesame seeds and jaggery. It's like saying "Welcome back, bright Sun! Thank you for making our world warm and happy!"
 
 ## The Solar Transition
-*(Kid-friendly explanation)*
 
 - **Uttarayana begins** = Sun starts moving north, days get longer
 - **Winter ending** = Coldest part of winter is over
@@ -34,7 +16,6 @@ To thank Surya for bringing warmth and light, people take holy baths in rivers, 
 - **Harvest time** = Time to gather crops that grew with Sun's help
 
 ## Symbols & Meanings
-*(Kid-friendly)*
 
 - **Sun and sunrise** = New energy, hope, spiritual power returning
 - **Sacred water baths** = Washing away cold and sadness, feeling fresh
@@ -65,23 +46,14 @@ To thank Surya for bringing warmth and light, people take holy baths in rivers, 
 - **Maghi** in Punjab
 - **Poush Sankranti** in Bengal
 
-### *[PHOTO PLACEHOLDER]*
-
 ---
 
-## Family Memories & Notes
-*Space for our own experiences and photos*
-
----
-
-## Related Aartis & Bhajans
+### Aartis & Bhajans
 
 - **[Om Jai Jagdish Hare](../section2-aartis-bhajans/10-om-jai-jagdish-hare.md)** *(universal prayer to the divine light)*
 - **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/06-jai-ganesh.md)** *(opening prayer)*
 
----
-
-## Learn More About the Deities
+### Deities
 
 - **[Lord Shiva](../section3-deities/01-lord-shiva.md)** - The cosmic transformer who contains the fire of a thousand suns
 - **[Lord Ganesha](../section3-deities/03-lord-ganesha.md)** - Remover of obstacles, invoked before celebrations

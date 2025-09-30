@@ -1,23 +1,6 @@
 # Lohri
-*January*
 
-## Deity Focus
-**Agni (Fire God), Surya (Sun God)**
-
-## When We Celebrate
-**13th January** - Bonfire festival marking the end of winter
-
-## Scriptural Sources
-- **Agni Purana** (Fire worship traditions)
-- **Folk traditions of Punjab**
-- **Agricultural harvest cycles**
-
-**Traditional Dating & Era:** Ancient agricultural festival; celebrated since Vedic times
-
----
-
-## Core Story
-*(For reading aloud)*
+## Story
 
 Long ago in Punjab, there lived a brave folk hero named Dulha Bhatti who helped poor people during difficult times. People would sing songs about his good deeds around bonfires to remember his kindness.
 
@@ -26,7 +9,6 @@ But the real story of Lohri is about thanking Fire (Agni) and the Sun (Surya) fo
 We gather around a big bonfire and throw offerings like sesame seeds, jaggery, and popcorn into the fire. This is our way of saying "Thank you, Fire! Thank you, Sun! Please keep giving us warmth and light!"
 
 ## Symbols & Meanings
-*(Kid-friendly)*
 
 - **Bonfire** = Warmth returning, burning away cold and sadness
 - **Sesame seeds (til) & jaggery** = Sweet blessings and sticking together like family
@@ -52,23 +34,14 @@ We gather around a big bonfire and throw offerings like sesame seeds, jaggery, a
 - **Popcorn** and **roasted peanuts**
 - **Jalebi** and other sweet treats
 
-### *[PHOTO PLACEHOLDER]*
-
 ---
 
-## Family Memories & Notes
-*Space for our own experiences and photos*
-
----
-
-## Related Aartis & Bhajans
+### Aartis & Bhajans
 
 - **[Om Jai Jagdish Hare](../section2-aartis-bhajans/10-om-jai-jagdish-hare.md)** *(universal prayer)*
 - **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/06-jai-ganesh.md)** *(opening prayer)*
 
----
-
-## Learn More About the Deities
+### Deities
 
 - **[Lord Shiva](../section3-deities/01-lord-shiva.md)** - Master of cosmic fire and transformation
 - **[Lord Ganesha](../section3-deities/03-lord-ganesha.md)** - Remover of obstacles, invoked before celebrations

@@ -1,22 +1,6 @@
 # Dussehra (Vijayadashami)
-*September-October*
 
-## Deity Focus
-**Lord Rama; Maa Durga** (dual significance)
-
-## When We Celebrate
-**10th day after Navratri**
-
-## Scriptural Sources
-- **Ramayana**
-- **Devi Mahatmya**
-
-**Traditional Dating & Era:** Rama in Treta Yuga; Devi's battle in mythic time
-
----
-
-## Core Story
-*(For reading aloud)*
+## Story
 
 Dussehra celebrates two great victories that happened on the same day:
 
@@ -25,7 +9,6 @@ Dussehra celebrates two great victories that happened on the same day:
 **Durga's Victory:** On this same day, Goddess Durga defeated the demon Mahishasura after fighting for nine nights. Both victories show that no matter how powerful evil becomes, goodness and dharma will always win.
 
 ## The Ten Heads of Ravana
-*(Bad qualities we should defeat)*
 
 1. **Kama** (Lust)
 2. **Krodha** (Anger)
@@ -39,7 +22,6 @@ Dussehra celebrates two great victories that happened on the same day:
 10. **Ahankara** (Ego)
 
 ## Symbols & Meanings
-*(Kid-friendly)*
 
 - **Effigy burning** = Letting go of our own bad habits
 - **Day of victory** = Good time to start new learning or projects
@@ -61,11 +43,7 @@ Dussehra celebrates two great victories that happened on the same day:
 - **New beginnings** - start learning, business, etc.
 - **Weapon worship** (Shastra Puja) in some regions
 
-### *[PHOTO PLACEHOLDER]*
-
----
-
-## Lessons from Dussehra
+### Lessons from Dussehra
 
 - **Never give up** - Rama fought for years to rescue Sita
 - **Friends matter** - Hanuman and others helped Rama win
@@ -74,20 +52,13 @@ Dussehra celebrates two great victories that happened on the same day:
 
 ---
 
-## Family Memories & Notes
-*Space for our own experiences and photos*
-
----
-
-## Related Aartis & Bhajans
+### Aartis & Bhajans
 
 - **[Shri Ramchandra Kripalu Bhajman](../section2-aartis-bhajans/14-ramchandra-kripalu.md)**
 - **[Jai Ambe Gauri](../section2-aartis-bhajans/05-jai-ambe-gauri.md)** *(if following Durga Puja emphasis)*
 - **[Om Jai Jagdish Hare](../section2-aartis-bhajans/10-om-jai-jagdish-hare.md)**
 
----
-
-## Learn More About the Deities
+### Deities
 
 - **[Lord Rama](../section3-deities/02-lord-rama.md)** - Complete stories of the ideal king who defeated Ravana
 - **[Maa Durga](../section3-deities/06-maa-durga.md)** - The Divine Mother who conquered Mahishasura

@@ -1,22 +1,6 @@
 # Diwali
-*October-November*
 
-## Deity Focus
-**Lakshmi, Ganesha; Rama-Sita, Hanuman**
-
-## When We Celebrate
-**New moon night of Kartik**
-
-## Scriptural Sources
-- **Ramayana** (Valmiki)
-- **Puranic additions** (Naraka Chaturdashi—Krishna)
-
-**Traditional Dating & Era:** Rama in Treta Yuga (mythic; "many thousands of years ago"); textual composition ~7th–4th c. BCE onward
-
----
-
-## Core Story
-*(For reading aloud)*
+## Story
 
 Diwali is the most joyful festival of lights! It celebrates the day when Lord Rama, Sita, and Lakshmana returned home to Ayodhya after 14 years of exile and after defeating the demon king Ravana.
 
@@ -33,7 +17,6 @@ In some places, people also celebrate Krishna's victory over the demon Narakasur
 5. **Bhai Dooj** - Brother-sister love
 
 ## Symbols & Meanings
-*(Kid-friendly)*
 
 - **Diyas/lamps** = Inner light of wisdom conquers darkness/ignorance
 - **Clean & decorate** = Remove inner clutter; invite goodness
@@ -58,10 +41,6 @@ In some places, people also celebrate Krishna's victory over the demon Narakasur
 - **Kheer** - Sweet rice pudding
 - **Dry fruits** and **nuts**
 
-### *[PHOTO PLACEHOLDER]*
-
----
-
 ## Diwali Prayers
 
 - **Welcome Lakshmi** - "Come into our home and hearts"
@@ -71,20 +50,13 @@ In some places, people also celebrate Krishna's victory over the demon Narakasur
 
 ---
 
-## Family Memories & Notes
-*Space for our own experiences and photos*
-
----
-
-## Related Aartis & Bhajans
+### Aartis & Bhajans
 
 - **[Jai Laxmi Mata](../section2-aartis-bhajans/07-jai-laxmi-mata.md)**
 - **[Jai Ganesh Jai Ganesh](../section2-aartis-bhajans/06-jai-ganesh.md)**
 - **[Shri Ramchandra Kripalu Bhajman](../section2-aartis-bhajans/14-ramchandra-kripalu.md)**
 
----
-
-## Learn More About the Deities
+### Deities
 
 - **[Maa Lakshmi](../section3-deities/07-maa-lakshmi.md)** - Goddess of prosperity who is welcomed home
 - **[Lord Ganesha](../section3-deities/03-lord-ganesha.md)** - Remover of obstacles, worshipped with Lakshmi

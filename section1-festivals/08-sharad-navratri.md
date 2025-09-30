@@ -1,22 +1,6 @@
 # Sharad Navratri
-*September-October*
 
-## Deity Focus
-**Maa Durga** (nine forms)
-
-## When We Celebrate
-**9 days in September/October, culminating in Dussehra**
-
-## Scriptural Sources
-- **Devi Mahatmya** (Markandeya Purana)
-- **Regional Durga traditions**
-
-**Traditional Dating & Era:** Mythic time; major autumn observance
-
----
-
-## Core Story
-*(For reading aloud)*
+## Story
 
 This is the most important Navratri of the year! Just like in Chaitra Navratri, we celebrate Maa Durga's victory over the demon Mahishasura. But this time, it's during the autumn season when nature is preparing for winter.
 
@@ -24,7 +8,7 @@ The story is the same beautiful tale: the powerful demon Mahishasura was troubli
 
 In many places, people also celebrate this as the time when Lord Rama worshipped Durga for nine days to get strength to defeat Ravana. So both stories - Durga's victory and Rama's victory - are celebrated together.
 
-## The Nine Days & Colors
+### The Nine Days & Colors
 
 Each day has a special color to wear:
 
@@ -39,13 +23,19 @@ Each day has a special color to wear:
 9. **Day 9** - Pink (Siddhidatri)
 
 ## Symbols & Meanings
-*(Kid-friendly)*
 
 - **Nine nights** = Sustained practice; becoming stronger each day
 - **Autumn celebration** = Preparing for challenges ahead with strength
 - **Garba dance** = Celebrating with community and joy
 - **Fasting** = Showing discipline and devotion
 - **Victory on 10th day** = Good always wins in the end
+
+### Special Days
+
+- **Saptami (7th)** - Maha Saptami
+- **Ashtami (8th)** - Maha Ashtami (most important)
+- **Navami (9th)** - Maha Navami
+- **Dashami (10th)** - Dussehra/Vijayadashami
 
 ## How We Celebrate at Home
 
@@ -57,30 +47,15 @@ Each day has a special color to wear:
 - Special Durga puja on Ashtami (8th day)
 - Kanya puja - honoring young girls
 
-### Special Days
-- **Saptami (7th)** - Maha Saptami
-- **Ashtami (8th)** - Maha Ashtami (most important)
-- **Navami (9th)** - Maha Navami
-- **Dashami (10th)** - Dussehra/Vijayadashami
-
-### *[PHOTO PLACEHOLDER]*
-
 ---
 
-## Family Memories & Notes
-*Space for our own experiences and photos*
-
----
-
-## Related Aartis & Bhajans
+### Aartis & Bhajans
 
 - **[Jai Ambe Gauri](../section2-aartis-bhajans/05-jai-ambe-gauri.md)**
 - **[Durga Chalisa](../section2-aartis-bhajans/02-durga-chalisa.md)**
 - **[Ya Devi Sarvabhuteshu](../section2-aartis-bhajans/15-ya-devi-sarvabhuteshu.md)**
 - **[Om Jai Jagdish Hare](../section2-aartis-bhajans/10-om-jai-jagdish-hare.md)**
 
----
-
-## Learn More About the Deities
+### Deities
 
 - **[Maa Durga](../section3-deities/06-maa-durga.md)** - Complete stories of the Divine Mother Protector
