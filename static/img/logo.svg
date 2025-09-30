@@ -1,0 +1,23 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6b35;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffa726;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="url(#grad1)" />
+
+  <!-- Diya (oil lamp) shape -->
+  <ellipse cx="100" cy="120" rx="60" ry="25" fill="#8d4e2a" />
+  <ellipse cx="100" cy="115" rx="55" ry="20" fill="#a0522d" />
+
+  <!-- Flame -->
+  <ellipse cx="100" cy="80" rx="8" ry="20" fill="#ffeb3b" />
+  <ellipse cx="100" cy="75" rx="5" ry="15" fill="#ff9800" />
+  <ellipse cx="100" cy="70" rx="3" ry="10" fill="#f44336" />
+
+  <!-- Om symbol (simplified) -->
+  <text x="100" y="160" font-family="serif" font-size="24" fill="white" text-anchor="middle">ॐ</text>
+</svg>
